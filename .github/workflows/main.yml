@@ -1,5 +1,5 @@
 
-name: sixhou
+name: sixhou4
 on:
   schedule:
     - cron: '46 23,7,15 */3 * *'
